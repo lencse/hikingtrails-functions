@@ -27,7 +27,7 @@ if [ "$GCLOUD_LOGGED_IN" != "true" ]; then
     echo "››› Login to gcloud"
     echo ""
 
-    mkdir .tmp
+    mkdir -p .tmp
     echo "$GCLOUD_SERVICE_ACCOUNT" | base64 -d > .tmp/gcloud.json
     gcloud auth activate-service-account --key-file=.tmp/gcloud.json
     rm .tmp/gcloud.json
@@ -35,11 +35,9 @@ fi
 
 set -x
 
-gcloud config set project hikingtrails-hu
+gcloud config set project hikingtrails-hu --quiet
 
-gcloud functions deploy \
-    --gen2 \
-    convert \
+gcloud functions deploy --gen2 convert \
     --region=europe-central2 \
     --runtime=nodejs16 \
     --source=. \

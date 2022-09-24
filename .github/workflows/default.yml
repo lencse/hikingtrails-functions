@@ -11,8 +11,8 @@ jobs:
         with:
           node-version: 16
           cache: 'yarn'
-      - run: make
       - run: make .env
+      - run: make
       - run: make verify
       - uses: actions/upload-artifact@v2
         with:
