@@ -1,0 +1,8 @@
+{
+    "watch": [
+        "dev",
+        "src"
+    ],
+    "ext": "ts,json",
+    "exec": "ts-node ./dev/dev-runner.ts"
+}

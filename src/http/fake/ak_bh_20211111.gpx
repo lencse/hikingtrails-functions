@@ -1,0 +1,408 @@
+<?xml version="1.0" ?>
+<gpx creator="Esri" version="1.1" xalan="http://xml.apache.org/xalan" xmlns="http://www.topografix.com/GPX/1/1" xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <wpt lat="48.386154804" lon="21.65740672">
+  <name>Sátoraljaújhely</name>
+  <desc>Sátoraljaújhely vasútállomás - A pénztár melletti falon.</desc>
+ </wpt>
+ <wpt lat="47.448847685" lon="21.689769537">
+  <name>Vekeri-tó</name>
+  <desc>Dorcas kemping - A kemping kerítésén.</desc>
+ </wpt>
+ <wpt lat="47.283256738" lon="21.827815165">
+  <name>Pocsaj</name>
+  <desc>Kikelet Óvoda - Az óvoda kerítésén.</desc>
+ </wpt>
+ <wpt lat="46.327947029" lon="18.853298022">
+  <name>Keselyűs</name>
+  <desc>Gemenc Zrt., Szekszárdi erdészet őrháza - Az őrház falán.</desc>
+ </wpt>
+ <wpt lat="46.255386416" lon="18.843308426">
+  <name>Lankóci gátőrház</name>
+  <desc>Vízügyi múzeum - A múzeum kerítésén.</desc>
+ </wpt>
+ <wpt lat="46.200538204" lon="18.928020994">
+  <name>Bajai átkelés</name>
+  <desc>Tanyacsárda - A csárda melletti víztározó medence drótkerítésén.</desc>
+ </wpt>
+ <wpt lat="46.301500427" lon="18.941097323">
+  <name>Ósükösd</name>
+  <desc>Ósükösdi turistaház - A turistaház ebédlőjében (társalgójában).</desc>
+ </wpt>
+ <wpt lat="46.301591013" lon="18.940996889">
+  <name>Ósükösd</name>
+  <desc>Ósükösdi turistaház - A turistaház melletti nyári konyha kis téglaépületének oszlopán.</desc>
+ </wpt>
+ <wpt lat="46.289879689" lon="19.748179456">
+  <name>Ruzsa</name>
+  <desc>Muskátli büfé és fagylaltozó - A büfé-fagylaltozóban, a TV-tartó konzolon.</desc>
+ </wpt>
+ <wpt lat="46.255914578" lon="19.658481078">
+  <name>Petróczi-iskola</name>
+  <desc>Petróczi csárda - Az egykori Petróczi-iskola épületében működő csárda külső falán.</desc>
+ </wpt>
+ <wpt lat="46.19155068" lon="18.930078215">
+  <name>Bajai átkelés</name>
+  <desc>Bajai Vándorpont - Az épület melletti fedett kerékpártároló Duna felőli oszlopán.</desc>
+ </wpt>
+ <wpt lat="46.384906739" lon="19.150440063">
+  <name>Hajósi pincék</name>
+  <desc>Judit Panzió - Az épület külső falán (a Fő út felé eső oldalon).</desc>
+ </wpt>
+ <wpt lat="46.363628978" lon="19.28577082">
+  <name>Kéleshalom</name>
+  <desc>Buszmegálló - A községházával szemben, a buszmegálló kőépületének külső falán.</desc>
+ </wpt>
+ <wpt lat="46.326649014" lon="19.971823251">
+  <name>Zsombó</name>
+  <desc>Jóbarát vendéglő - A vendéglőben, a pult melletti falon.</desc>
+ </wpt>
+ <wpt lat="46.524027592" lon="20.193696729">
+  <name>Mindszent vá.</name>
+  <desc>Mindszent vasútállomás - A vasútállomáson, a pénztáraknál.</desc>
+ </wpt>
+ <wpt lat="46.542640115" lon="20.406546652">
+  <name>Tompahát</name>
+  <desc>Tompahát tanya, vegyesbolt - A vegyesbolt ablaknyílásában, az ajtó mellett.</desc>
+ </wpt>
+ <wpt lat="46.588201053" lon="20.470102604">
+  <name>Nagymágocs</name>
+  <desc>Károlyi-kastély - A kastély portáján kívül, a falon.</desc>
+ </wpt>
+ <wpt lat="46.319253084" lon="19.925509391">
+  <name>Bordány</name>
+  <desc>Viking söröző - A hátsó udvarban, az épület falán.</desc>
+ </wpt>
+ <wpt lat="46.53247757" lon="20.163817589">
+  <name>Mindszenti rév</name>
+  <desc>Mindszenti rév - A rév melletti halászcsárdában, a falon.</desc>
+ </wpt>
+ <wpt lat="46.873687665" lon="20.527911305">
+  <name>Szarvas</name>
+  <desc>Szarvasi Arborétum - Az arborétum kapujának belső oldalán.</desc>
+ </wpt>
+ <wpt lat="47.154136416" lon="20.916597389">
+  <name>Ecsegfalva</name>
+  <desc>Ecsegfalva (észak) - Az Ecsegfalva végét jelző tábla előtt, a Körös-Maros Nemzeti Park információs tábláján (Fő utca).</desc>
+ </wpt>
+ <wpt lat="46.969970969" lon="21.085900077">
+  <name>Körösladány</name>
+  <desc>Körösladány vasútállomás - A forgalmi irodában, a falon.</desc>
+ </wpt>
+ <wpt lat="46.707168453" lon="20.561505706">
+  <name>Eperjes</name>
+  <desc>OKK információs tábla - A templom mellett lévő információs táblán. (DA092INF)</desc>
+ </wpt>
+ <wpt lat="46.986345195" lon="21.183950748">
+  <name>Vidratanya</name>
+  <desc>Szeghalom, Fokközi Védelmi Központ - A Vidra Tanyával szemközti Fokközi Védelmi Központ épületének falán.</desc>
+ </wpt>
+ <wpt lat="46.939415998" lon="21.214612185">
+  <name>Csolt-monostor</name>
+  <desc>Vésztő–Mágor Történelmi Emlékhely - Az emlékparkban, a juhászok szállásánál.</desc>
+ </wpt>
+ <wpt lat="46.938859563" lon="21.263708488">
+  <name>Vésztő vá.</name>
+  <desc>Vésztő vasútállomás - A vasútállomáson belül, a pénztár melletti falon.</desc>
+ </wpt>
+ <wpt lat="47.209726927" lon="21.537891057">
+  <name>Berettyóújfalu</name>
+  <desc>Tiszántúli Vízügyi Igazgatóság - A kerítésen, a kapu mellett.</desc>
+ </wpt>
+ <wpt lat="47.245283469" lon="21.822685662">
+  <name>Kismarja</name>
+  <desc>Kisvadász söröző - A sörözőben, a falon.</desc>
+ </wpt>
+ <wpt lat="47.284371966" lon="21.811703292">
+  <name>Pocsaj</name>
+  <desc>Papa söröző - A sörözőben, a pult mellett.</desc>
+ </wpt>
+ <wpt lat="47.320448488" lon="21.891334074">
+  <name>Cserekert</name>
+  <desc>Családi ház, Hajnal u. 22. - A ház léckerítésén.</desc>
+ </wpt>
+ <wpt lat="47.186534015" lon="21.795489533">
+  <name>Nagykereki</name>
+  <desc>Reál Pont élelmiszerbolt - A boltban, az ajtókereten.</desc>
+ </wpt>
+ <wpt lat="47.422349697" lon="21.865871154">
+  <name>Kepecstag</name>
+  <desc>Kepecstag - A Hortobágyi NP információs táblájának oszlopán.</desc>
+ </wpt>
+ <wpt lat="47.487029433" lon="21.718163608">
+  <name>Bánk</name>
+  <desc>Erdőspusztai Bemutatóház és Arborétum - Az arborétum kerítéskapuján (belül).</desc>
+ </wpt>
+ <wpt lat="47.529213331" lon="21.815232208">
+  <name>Halápi csárda</name>
+  <desc>Halápi csárda - A hajdani csárda előtt, a tájvédelmi körzet tábla oszlopán.</desc>
+ </wpt>
+ <wpt lat="47.990119887" lon="22.147484973">
+  <name>Vaja</name>
+  <desc>OKK útjelző oszlop - Az elágazásban lévő Országos Kékkör útjelző oszlopon. (EANCS04UTJ)</desc>
+ </wpt>
+ <wpt lat="48.096730996" lon="22.101051205">
+  <name>Nyírkarász</name>
+  <desc>Tölgyfa presszó - A presszó falán, az ajtó mellett.</desc>
+ </wpt>
+ <wpt lat="48.20856347" lon="22.078332356">
+  <name>Kisvárda</name>
+  <desc>Kisvárda vasútállomás - A váróterem bejárata mellett, a falon.</desc>
+ </wpt>
+ <wpt lat="48.246435174" lon="21.963046653">
+  <name>Tiszakanyár</name>
+  <desc>Anita büfé - A büfé külső kerítésén.</desc>
+ </wpt>
+ <wpt lat="48.278103289" lon="21.832982022">
+  <name>Cigándi gátőrház</name>
+  <desc>Cigándi gátőrház - A Kelemen-tanya mellett, a csatorna partján lévő OKK útjelző oszlopon (EM1138UTJ).</desc>
+ </wpt>
+ <wpt lat="48.315262694" lon="21.794780581">
+  <name>Karcsa</name>
+  <desc>Református templom - A templom előtti hirdetőtáblán.</desc>
+ </wpt>
+ <wpt lat="47.896444546" lon="22.162111907">
+  <name>Nyírderzs</name>
+  <desc>Hangulat büfé - A büfében, a falon.</desc>
+ </wpt>
+ <wpt lat="47.837297294" lon="22.12769284">
+  <name>Nyírbátor</name>
+  <desc>Báthori Múzeum - A múzeum bejárata melletti ablakrácson.</desc>
+ </wpt>
+ <wpt lat="46.274527695" lon="19.886935942">
+  <name>Zákányszék</name>
+  <desc>Retro Bistro és Étterem - Az étterem teraszán.</desc>
+ </wpt>
+ <wpt lat="46.344596663" lon="18.790742985">
+  <name>Bárányfok</name>
+  <desc>Bárányfok kisvasút végállomás - Az OKK információs tábla oszlopán</desc>
+ </wpt>
+ <wpt lat="47.693195284" lon="22.045122623">
+  <name>Nyírlugos</name>
+  <desc>Bélteki út - Encsencsi utca sarok, OKK információs tábla - Az OKK információs tábla oszlopán (EA023INF)</desc>
+ </wpt>
+ <wpt lat="47.478631503" lon="21.719418388">
+  <name>Bánk</name>
+  <desc>Debrecen-Bánki Református Általános Iskola - Debrecen-Bánki Református Általános Iskola kerítésének sarkán.</desc>
+ </wpt>
+ <wpt lat="48.360786103" lon="21.693418411">
+  <name>Felsőberecki</name>
+  <desc>Élelmiszerbolt - Élelmiszerbolt kerítésén, a Református templommal szemben.</desc>
+ </wpt>
+ <wpt lat="47.452635926" lon="21.703623494">
+  <name>Vekeri-tó</name>
+  <desc>Mézes-hegyi-tó - A Mézes-hegyi-tó nyugati oldalán az esőbeálló mellett az információs táblán.</desc>
+ </wpt>
+ <wpt lat="48.132352112" lon="22.11657259">
+  <name>Gyulaháza</name>
+  <desc>Vigadóház söröző - A Vigadóház söröző teraszának oszlopán.</desc>
+ </wpt>
+ <wpt lat="46.34570039" lon="20.04380325">
+  <name>Szatymaz</name>
+  <desc>Szatymaz vasútállomás - A pénztár mellett, a falon.</desc>
+ </wpt>
+ <wpt lat="46.533000601" lon="20.16360271">
+  <name>Mindszenti rév</name>
+  <desc>Mindszenti rév - A kompon, a révésznél.</desc>
+ </wpt>
+ <wpt lat="46.616901177" lon="20.550402533">
+  <name>Árpádhalom</name>
+  <desc>Vegyesbolt - A vegyesbolton kívül, a mellette lévő raktár ajtaján.</desc>
+ </wpt>
+ <wpt lat="47.03400811" lon="20.943490126">
+  <name>Dévaványa</name>
+  <desc>Dévaványa vasútállomás - A vasútállomás pénztára előtt, a falon.</desc>
+ </wpt>
+ <wpt lat="47.192329065" lon="21.459138834">
+  <name>Bakonszeg</name>
+  <desc>Bessenyei György-emlékház - Az emlékház udvarán álló villanyoszlopon.</desc>
+ </wpt>
+ <wpt lat="47.28621902" lon="21.826843713">
+  <name>Pocsaj</name>
+  <desc>Sinka Miska vendégház - A vendégház fedett teraszának oszlopán.</desc>
+ </wpt>
+ <wpt lat="46.393827568" lon="19.365185086">
+  <name>Pici Paci Porta</name>
+  <desc>Pici Paci Porta - A főépület oldalfalán.</desc>
+ </wpt>
+ <wpt lat="47.46048122" lon="21.933510939">
+  <name>Ligeti-földek</name>
+  <desc>Ligeti-földek - A Kék-Kálló-völgy nevű OKK útjelző oszlopon (EA122UTJ).</desc>
+ </wpt>
+ <wpt lat="47.005522061" lon="20.62086764">
+  <name>Mezőtúr</name>
+  <desc>Túri Fazekas Múzeum - A múzeum külső falán.</desc>
+ </wpt>
+ <wpt lat="46.944776921" lon="20.638321294">
+  <name>Peresi gátőrház</name>
+  <desc>Hortobágy-Berettyó főcsatorna árvízkapuja - A Hortobágy-Berettyó főcsatorna árvízkapujában, a hármas zsilip korlátján.</desc>
+ </wpt>
+ <wpt lat="46.985870138" lon="21.182947829">
+  <name>Vidratanya</name>
+  <desc>Szeghalom, Vidratanya étterem és panzió - Az étteremnél, az épület bejárati ajtaja mellett.</desc>
+ </wpt>
+ <wpt lat="48.332241543" lon="21.74552888">
+  <name>Karos</name>
+  <desc>Honfoglalás Kori Látogató Központ - A látogatóközpont kerítésén.</desc>
+ </wpt>
+ <wpt lat="48.213214644" lon="22.004054446">
+  <name>Rétközberencs</name>
+  <desc>Vízügy telephely - A vízügy telephelyének kerítésén.</desc>
+ </wpt>
+ <wpt lat="47.661921216" lon="22.011133957">
+  <name>Gút</name>
+  <desc>Útkereszteződés - Az útjelző oszlopon.</desc>
+ </wpt>
+ <wpt lat="47.569448039" lon="21.879165804">
+  <name>Petőrészi-kilátó</name>
+  <desc>Kilátó - A kilátó oszlopán.</desc>
+ </wpt>
+ <wpt lat="47.499728191" lon="21.766551741">
+  <name>Fancsika</name>
+  <desc>Bodzás víztározó - Tájvédelmi tábla oszlopán.</desc>
+ </wpt>
+ <wpt lat="47.481284465" lon="21.823000148">
+  <name>Pipóhegy</name>
+  <desc>Két tölgy vendégház - A vendégház mellett lévő Országos Kékkör útjelző oszlopon (EANCS12UTJ).</desc>
+ </wpt>
+ <wpt lat="47.195320416" lon="21.732736776">
+  <name>Bojt</name>
+  <desc>Óvoda - Az óvoda kerítésén.</desc>
+ </wpt>
+ <wpt lat="47.227629896" lon="21.616567559">
+  <name>Szentpéterszeg</name>
+  <desc>Jurta - A &quot;jurta&quot; faoszlopán.</desc>
+ </wpt>
+ <wpt lat="47.070912113" lon="21.541423311">
+  <name>Belec</name>
+  <desc>Madárles - A madárles oszlopán.</desc>
+ </wpt>
+ <wpt lat="46.964194551" lon="21.657083173">
+  <name>Szilaspuszta</name>
+  <desc>AK útjelző oszlop a kereszteződésben - A DA088UTJ-2 azonosítójú útjelző oszlopon.</desc>
+ </wpt>
+ <wpt lat="47.043313525" lon="21.064656299">
+  <name>Folyás-ér</name>
+  <desc>AK útjelző oszlop a kereszteződésben - A DA148UTJ azonosítójú útjelző oszlopon.</desc>
+ </wpt>
+ <wpt lat="46.541662074" lon="20.335151437">
+  <name>Ördöngös</name>
+  <desc>OKK információs tábla - A major mellett lévő információs táblán. (DA104INF)</desc>
+ </wpt>
+ <wpt lat="46.222000353" lon="19.766000841">
+  <name>Rúzsa-fa</name>
+  <desc>AK útjelző oszlop Rúzsa Sándor fájánál - A DA040UTJ azonosítójú útjelző oszlopon.</desc>
+ </wpt>
+ <wpt lat="46.352499919" lon="19.447900311">
+  <name>Kis Keceli út</name>
+  <desc>AK információs tábla - A DA113INF azonosítójú információs táblán.
+</desc>
+ </wpt>
+ <wpt lat="46.397899804" lon="19.235800499">
+  <name>Császártöltés</name>
+  <desc>Tanya - A tanya középső háza előtti derékba vágott fatörzsön.</desc>
+ </wpt>
+ <wpt lat="46.257399454" lon="19.091100739">
+  <name>Ólom-hegy</name>
+  <desc>AK információs tábla a turistaút elágazásban - A DA031INF azonosítójú információs táblán.</desc>
+ </wpt>
+ <wpt lat="46.199599137" lon="18.83730071">
+  <name>Pörböly</name>
+  <desc>AK információs tábla - A DD010INF azonosítójú információs táblán.</desc>
+ </wpt>
+ <wpt lat="47.082452591" lon="20.760840605">
+  <name>Túrkeve</name>
+  <desc>Balai híd - Az elágazásban lévő OKK útjelző oszlopon. (DANCS18UTJ)</desc>
+ </wpt>
+ <wpt lat="46.923932977" lon="21.532770378">
+  <name>Begécsi-víztároló</name>
+  <desc>Madár kilátó - A madár kilátó oszlopán.</desc>
+ </wpt>
+ <wpt lat="46.658584775" lon="20.589852853">
+  <name>Gádoros</name>
+  <desc>Árbarát élelmiszer és vegyesbolt - A bolt ajtaján kívül, de a rácson belül.</desc>
+ </wpt>
+ <wpt lat="46.34949654" lon="18.712557687">
+  <name>Szekszárd</name>
+  <desc>Szekszárd vasútállomás - A vasútállomás sínek felőli oldalán, a váróterem kijárati ajtaja mellett, a forgalmi iroda falán.</desc>
+ </wpt>
+ <wpt lat="48.230790532" lon="22.068479077">
+  <name>Kisvárda</name>
+  <desc>A strandfürdő épületének sarkánál, OKK útjelző oszlop. - Az OKK útjelző oszlopon (EA076UTJ).  IDEIGLENESEN: az építkezést elzáró falon.</desc>
+ </wpt>
+ <wpt lat="46.292779183" lon="19.567907607">
+  <name>Jánostelek</name>
+  <desc>OKK információs tábla - A kacsatelep sarkánál lévő információs táblán (DA116INF).</desc>
+ </wpt>
+ <wpt lat="46.858411515" lon="20.525954221">
+  <name>Szarvas</name>
+  <desc>Körös-Maros Nemzeti Park Igazgatóság Körösvölgyi Látogatóközpont és Állatpark - A látogatóközpont főbejárati kapuja melletti faoszlopon.</desc>
+ </wpt>
+ <wpt lat="46.362187811" lon="20.097475116">
+  <name>Sándorfalva</name>
+  <desc>OKK információs tábla - Az Alkotmány körút és a Dózsa György utca sarkán lévő információs táblán (DA077INF).</desc>
+ </wpt>
+ <wpt lat="47.081321348" lon="20.933440786">
+  <name>Réhelyi Látogatóközpont</name>
+  <desc>Réhelyi Látogatóközpont - A látogatóközpont jegypénztára előtti fakorláton.</desc>
+ </wpt>
+ <wpt lat="47.6019034" lon="21.97179981">
+  <name>Nyíracsád</name>
+  <desc>OKK információs tábla, Petőfi tér - A gyógyszertár előtt lévő információs tábla oszlopán (EA024INF).</desc>
+ </wpt>
+ <wpt lat="47.779688539" lon="22.065895936">
+  <name>Istvántanya</name>
+  <desc>Fapados büfé - A büfé külső falán.</desc>
+ </wpt>
+ <wpt lat="47.383445147" lon="21.892000468">
+  <name>Létavértes</name>
+  <desc>OKK információs tábla, Baross utca - A szakrendelő előtt lévő információs tábla oszlopán (EA028INF).</desc>
+ </wpt>
+ <wpt lat="47.009297143" lon="21.645811227">
+  <name>Körösnagyharsány</name>
+  <desc>Önkormányzat - Az önkormányzat épületén lévő hirdetőtábla szélén.</desc>
+ </wpt>
+ <wpt lat="46.898748405" lon="21.342594767">
+  <name>Okány</name>
+  <desc>OKK információs tábla - A Soma söröző előtti OKK információs táblán (DA041INF).</desc>
+ </wpt>
+ <wpt lat="46.970197206" lon="21.601037374">
+  <name>Biharugra</name>
+  <desc>Makk hetes söröző - A söröző előtti filagóriában/ kiülőben.</desc>
+ </wpt>
+ <wpt lat="47.019121786" lon="21.592239525">
+  <name>Körösszakál</name>
+  <desc>Forza Milan söröző - A söröző teraszán.</desc>
+ </wpt>
+ <wpt lat="47.128502411" lon="21.456451095">
+  <name>Furta</name>
+  <desc>Információs tábla - A Petőfi utca és a Szabadság utca sarkán lévő információs táblán.</desc>
+ </wpt>
+ <wpt lat="48.330781221" lon="21.82999746">
+  <name>Pácin</name>
+  <desc>Kastélypark - A parkban található információs táblán.</desc>
+ </wpt>
+ <wpt lat="47.187626509" lon="21.800628647">
+  <name>Nagykereki</name>
+  <desc>Bocskai-kastély - A bejárati kapu mellett a kerítésen.</desc>
+ </wpt>
+ <wpt lat="47.248150819" lon="21.826563415">
+  <name>Kismarja</name>
+  <desc>Református templom - A templom előtti információs táblán.</desc>
+ </wpt>
+ <wpt lat="46.488113371" lon="20.093771675">
+  <name>Ópusztaszer</name>
+  <desc>Nemzeti Történelmi Emlékpark - Tourinform iroda - A főbejárat mellett, az iroda bal oldali külső falán.</desc>
+ </wpt>
+ <wpt lat="46.919313257" lon="21.486436274">
+  <name>Zsadány</name>
+  <desc>OKK útjelző oszlop - Az Attila király körút és a Mezőgyáni út sarkán lévő OKK útjelző oszlopon. (DA078UTJ)</desc>
+ </wpt>
+ <wpt lat="46.885642081" lon="21.575721168">
+  <name>Geszt</name>
+  <desc>Országos Kékkör információs tábla - A Szabadság utca mellett lévő OKK információs táblán (DA039INF).</desc>
+ </wpt>
+ <wpt lat="47.243855173" lon="21.701776353">
+  <name>Hencida</name>
+  <desc>OKK útjelző oszlop - Az Arany János és a Kossuth utca sarkán lévő Országos Kékkör útjelző oszlopon. (EANCS31UTJ)</desc>
+ </wpt>
+</gpx>
