@@ -56,7 +56,16 @@ export const handler = async (req: Request, res: Response) => {
     //     })
     //     return
     // }
+    res.set('Access-Control-Allow-Origin', '*')
     try {
+        if (req.method === 'OPTIONS') {
+            res.set('Access-Control-Allow-Methods', 'POST')
+            res.set('Access-Control-Allow-Headers', 'Content-Type')
+            res.set('Access-Control-Max-Age', '3600')
+            res.status(204)
+            res.send('')
+            return
+        }
         if (req.method !== 'POST') {
             res.status(405)
             res.header('Content-Type', 'text/plain; charset=UTF-8')
